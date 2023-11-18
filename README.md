@@ -1,5 +1,3 @@
-# Cricket-Performance-Predictor
-Performance Predictor
 # Cricket Team Performance Predictor
 
 ## Project Overview
